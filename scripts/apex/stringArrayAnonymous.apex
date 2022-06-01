@@ -1,0 +1,1 @@
+system.debug(StringArray.ganerateStringarray(6));

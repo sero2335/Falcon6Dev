@@ -1,0 +1,9 @@
+MathematicalClass operation = new MathematicalClass();
+integer resultOfSum = operation.addition(75, 15);
+system.debug('The result of x + y = ' + resultOfSum);
+integer resultOfDifference = operation.subtraction(75, 15);
+system.debug('The result of x - y = ' + resultOfDifference);
+integer resultOfProduct = operation.multiplication(75, 15);
+system.debug('The result of x * y = ' + resultOfProduct);
+integer resultOfQuotient = operation.division(75, 15);
+system.debug('The result of x / y = ' + resultOfQuotient);
